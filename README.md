@@ -1,3 +1,5 @@
+# Wine-Classification-Using-Decision-Tree-and-Random-Forest
+
 # Introduction
 
 * This mini project focuses on classifying wine samples into different classes using machine learning techniques. Decision Tree and Random Forest algorithms are implemented to analyze and compare their performance.
